@@ -28,15 +28,15 @@
 }
 .navbar-links a{
     color: #274760;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
 }
 #searchicon{
-    margin-left: 400px;
+    margin-left: 360px;
     color: #274760;
 }
 #listicon{
-    right: 40px;
+    margin-right: 60px;
     color: #274760;
 }
 .Home{
@@ -44,7 +44,7 @@
     border: none;
     margin: 0 15px;
     color: #274760;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 400;
 }
 .Pages{
@@ -52,7 +52,7 @@
     border: none;
     margin: 0 15px;
     color: #274760;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 400;
 }
 .Pages option{

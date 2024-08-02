@@ -1,6 +1,8 @@
 import React from 'react';
 import './navbar.css'; 
 import logo from './assets/logo.png'; 
+import { CiSearch } from "react-icons/ci";
+import { BsList } from "react-icons/bs";
 
 
 
@@ -26,6 +28,12 @@ function Navbar() {
         </select>
         <li><a href="#contact">Contact</a></li>
       </ul>
+      <div id="searchicon" >
+        <CiSearch/>
+      </div>
+      <div id="listicon">
+        <BsList />
+      </div>
     </nav>
   );
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import img from './assets/bg1.jpeg';
 import './container.css';
+import { GrLinkNext } from "react-icons/gr";
 import img2 from './assets/Group1.png';
 
 
@@ -28,7 +29,7 @@ const Container1 = () => {
                 comfortable and stress-free
             </p>
         </div>
-        <button id="book">Book Now
+        <button id="book">Book Now <GrLinkNext />
         </button>
         </div>
         <div id="image2">
