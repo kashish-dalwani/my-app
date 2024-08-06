@@ -1,6 +1,6 @@
 import React from 'react';
 import './navbar.css'; 
-import logo from './assets/logo.png'; 
+import logo from '../../src/assets/logo.png'; 
 import { CiSearch } from "react-icons/ci";
 import { BsList } from "react-icons/bs";
 
