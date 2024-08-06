@@ -4,8 +4,6 @@ import logo from '../../src/assets/logo.png';
 import { CiSearch } from "react-icons/ci";
 import { BsList } from "react-icons/bs";
 
-
-
 function Navbar() {
   return (
     <nav className="navbar">

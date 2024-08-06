@@ -1,7 +1,128 @@
-.container2 .heading{
-    width: 1,626pxpx;
-    height: 82pxpx;
-    padding: 0px 632.25px 0px 632.23px;
-    gap: 0px;
+.cardcont .heading{
+    width: 1,626px;
+    height: 82px;
+    color: #274760;
+    font-family: Inter;
+    font-size: 27.36px;
+    font-weight: 500;
+    line-height: 82px;
+    text-align: center;
+}
+
+#card1, #card2, #card3{
+    float: left;
+}
+
+.cardcont #card1{
+    width: 270px;
+    height: 270px;
+    padding: 0px 50px 70px 50px;
+    gap: 35px;
+    border-radius: 25px 0px 0px 0px;
+    box-shadow: 0px 4px 21px 1px #307BC41A;
+    margin-left: 50px;
+    margin-top: 90px;
 
 }
+
+.head1, .logo1{
+    float: left;
+}
+
+.card1head h4{
+   
+    margin-left: 10px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 27.19px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 37px;
+    margin-left: 20px;
+}
+.card1head .logo1{
+    margin: 0;
+    margin-top: 40px;
+}
+.text1 p{
+    margin-top: 45px;
+    text-align: left;
+    color: #27476085;
+}
+
+.cardcont #card2{
+    width: 270px;
+    height: 270px;
+    padding: 0px 50px 70px 50px;
+    gap: 35px;
+    border-radius: 25px 0px 0px 0px;
+    box-shadow: 0px 4px 21px 1px #307BC41A;
+    margin-left: 30px;
+    margin-top: 40px;
+
+}
+
+.head2, .logo2{
+    float: left;
+}
+.card2head h4{
+    margin-left: 10px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 27.19px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 37px;
+    margin-left: 20px;
+}
+.text2 p{
+    margin-top: 125px;
+    text-align: left;
+    color: #27476085;
+}
+
+.card2head .logo2{
+    margin: 0;
+    margin-top: 40px;
+}
+
+
+.cardcont #card3{
+    width: 270px;
+    height: 270px;
+    padding: 0px 50px 70px 50px;
+    gap: 35px;
+    border-radius: 25px 0px 0px 0px;
+    box-shadow: 0px 4px 21px 1px #307BC41A;
+    margin-left: 30px;
+    margin-top: 90px;
+
+}
+.head3, .logo3{
+    float: left;
+}
+.card3head h4{
+    margin-left: 10px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 27.19px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 37px;
+    margin-left: 20px;
+}
+.text3 p{
+    margin-top: 125px;
+    text-align: left;
+    color: #27476085;
+}
+
+.card3head .logo3{
+    margin: 0;
+    margin-top: 40px;
+}
+
+

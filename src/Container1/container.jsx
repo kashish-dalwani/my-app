@@ -1,15 +1,15 @@
 import React from "react";
-// import img from './assets/bg1.jpeg';
+import img from '../../src/assets/bg1.jpeg';
 import './container.css';
 import { GrLinkNext } from "react-icons/gr";
-// import img2 from '../';
+import img2 from '../../src/assets/Group1.png';
 
 
 const Container1 = () => {
   const divStyle = {
     width: '100vw',
     height: '900px',
-    // backgroundImage: `url(${img})`,
+    backgroundImage: `url(${img})`,
     backgroundAttachment: 'fixed',
     backgroundSize: 'cover',
     backgroundPosition: 'center'
@@ -33,8 +33,8 @@ const Container1 = () => {
         </button>
         </div>
         <div id="image2">
-            {/* <img src={img2} alt="img2" className="img2"> */}
-            {/* </img> */}
+            <img src={img2} alt="img2" className="img2">
+            </img>
         </div>
             
        
