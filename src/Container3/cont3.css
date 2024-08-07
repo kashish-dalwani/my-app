@@ -1,0 +1,91 @@
+.head{
+    font-family: Inter;
+    font-size: 60.36px;
+    font-weight: 700;
+    line-height: 82px;
+    text-align: center;
+}
+.card1 , .card2, .card3{
+    float: left;
+}
+.card1{
+    margin-left: 30px;
+}
+.card2, .card3{
+    margin-left: 15px;
+}
+.card1, .card2, .card3{
+    width: 400px;
+    height: 250px;
+    border-radius: 15px 0px 0px 0px;
+    box-shadow: 0px 4px 21px 1px #307BC41A;
+    margin-bottom: 90px;
+}
+.icon, .head1{
+    float: left;
+}
+.icon{
+    width:80px;
+    height:80px;
+    border-radius: 15px 0px 0px 0px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.head1, .head2, .head3{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 20px;
+    padding-top: 15px;
+    color: #274760;
+}
+.para1 , .para2, .para3{
+    padding-top: 110px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #27476085;
+}
+.cont3_1{
+    height: 400px;
+    width: 1200px;
+    margin-left: 50px;
+    align-items: center;
+}
+.head4 {
+    font-family: Inter;
+    font-size: 67.64px;
+    font-weight: 700;
+    line-height: 82px;
+    text-align: center;
+    color: #274760;
+}
+.head5{
+    text-align: center;
+    font-family: Inter;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 41.92px;
+    color: #307BC4;
+    margin-top: -90px;
+}
+.paraclass{
+    margin-top: -10px;
+}
+.para4{
+    font-family: Poppins;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    color: #27476085;
+}
+.para4 , .iconright{
+    float: left;
+}

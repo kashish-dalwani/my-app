@@ -1,0 +1,65 @@
+.img001 , .div1{
+    float: left;
+}
+.img001 , .anch{
+    float: left;
+}
+.img001{
+    height: 700px;
+    width: 722px;
+    padding-top: 0px;
+    margin-left: 30px;
+}
+.div1{
+    height: 400px;
+    width: 500px;
+    border: 1px sold black;
+    margin-left: -10px;
+    margin-top: 150px;
+}
+.head{
+    font-family: Inter;
+    font-size: 37.78px;
+    font-weight: 700;
+    color: #274760;
+    text-align: left;
+}
+.get{
+    font-family: Inter;
+    font-size: 20.88px;
+    font-weight: 600;
+    line-height: 41.92px;
+    text-align: left;
+    margin-top: -45px;
+    margin-left: 8px;
+    color: #307BC4;
+}
+.maindiv{
+    margin-top: 500px;
+    height: 1200px;
+}
+.drinfo{
+    margin-left: -20px;
+    margin-top: 40px;
+    font-family: Inter;
+    font-size: 18.13px;
+    font-weight: 200;
+    text-align: left;
+    color: #27476085;
+    width: 300px;
+}
+.extrainfo{
+    margin-left: 20px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #27476085;
+    margin-top: 20px;
+}
+.img011{
+    width: 1400px;
+    height: 400px;
+    margin-left: -67px;
+}
