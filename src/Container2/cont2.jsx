@@ -11,7 +11,7 @@ function Container2(){
             <div className="div1">
                 <p className="head">Know your Doctor</p>
                 <p className="get">GET TO KNOW</p>
-                <p className="icon"><FiArrowRight /> </p>
+                <p className="icon101"><FiArrowRight /> </p>
                 <div className="drinfo">Dr. Anuja Kishorrao Chanekar, Your Trusted Dental Surgeon in Nagpur</div>
                 <div className="extrainfo">Dr. Anuja Kishorrao Chanekar is a highly skilled and experienced dental surgeon dedicated to providing exceptional oral care to patients of all ages. She believes in a patient-centered approach, ensuring every individual receives personalized treatment and a comfortable dental experience.</div>
             </div>

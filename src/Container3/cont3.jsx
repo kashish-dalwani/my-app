@@ -29,7 +29,7 @@ function Container3(){
                 <h6 className="head5">PATIENT CARE</h6>
                 <div className="paraclass">
                     
-                    <p className="para4"><TfiQuoteLeft/>Dr. Chanekar is known for her compassionate and gentle approach, ensuring patients feel at ease during their dental visits. She takes the time to listen to their concerns, explain treatment options, and create personalized treatment plans. Her goal is to help every patient achieve optimal oral health and a confident smile.     <TfiQuoteRight/></p>
+                    <p className="para4"><TfiQuoteLeft></TfiQuoteLeft>&nbsp;&nbsp;Dr. Chanekar is known for her compassionate and gentle approach, ensuring patients feel at ease during their dental visits. She takes the time to listen to their concerns, explain treatment options, and create personalized treatment plans. Her goal is to help every patient achieve optimal oral health and a confident smile.&nbsp;&nbsp;<TfiQuoteRight/></p>
 
                 </div>
             </div>

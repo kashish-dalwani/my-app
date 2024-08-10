@@ -1,0 +1,170 @@
+.main102{
+    height: 750px;
+    width: 1300px;
+    margin-top: 400px;
+    border: 1px solid white;
+}
+.maindiv101{
+    height: 750px;
+    width: 650px;
+    border: 1px solid white;
+    margin-top: 0px;
+    margin-left: 30px;
+    padding-left: 18px;
+}
+.para101{
+    font-family: Inter;
+    font-size: 25.63px;
+    font-weight: 600;
+    line-height: 41.92px;
+    text-align: left;
+    color: #307BC4;
+}
+.head301{
+    font-family: Inter;
+    font-size: 55.48px;
+    font-weight: 700;
+    line-height: 82px;
+    text-align: left;
+    color: #274760;
+    margin-top: -40px;
+}
+.namediv , .phonediv{
+    float: left;
+}
+.datediv , .timediv{
+    float: left;
+    margin-top: 10px;
+}
+.namediv , .phonediv , .timediv , .datediv{
+    height: 70px;
+    width: 200px;
+    padding-left: 12px;
+}
+.name , .phone , .date , .time , .reason , .dept{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    padding-left: 10px;
+    color: #274760;
+}
+.namefield , .phonefield , .datefield , .timefield{
+    width: 178.5px;
+    height: 33px;
+    padding-left: 12px;
+    border-radius: 30px;
+    color: #27476085;
+    border: 0px 0px 0px 0px;
+    border-color: #307ac45f;
+}
+.phonediv , .timediv{
+    margin-left: 30px;
+}
+.num{
+    margin-left: 12px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    padding-left: 10px;
+    color: #274760;
+}
+.numfield{
+    width: 430px;
+    height: 33px;
+    margin-left: 12px;
+    border-radius: 30px;
+    border: 0px 0px 0px 0px;
+    border-color: #307ac45f;
+}
+.rout , .ne , .spe{
+    float: left;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #27476085;
+    margin-top: 7px;
+}
+#routine , #specific , #new{
+    float: left;
+    color: #307BC4;
+    margin-top: 12px;
+}
+#specific , #new{
+    margin-left: 20px;
+}
+.reasondiv{
+    margin-top: 110px;
+    margin-left: 14px;
+}
+.reason{
+    font-size: 17px;
+}
+.neur , .card , .og , .ped{
+    float: left;
+    margin-top: 10px;
+    padding-left: 13px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #27476085;
+}
+.deptdiv{
+    margin-top: 70px;
+}
+.nm{
+    border: 1px solid white;
+    margin-top: 95px;
+    height: 90px;
+}
+.formdet{
+    border: 1px solid white;
+    width: 600px;
+    height: 60px;
+}
+.dept{
+    text-align: left;
+    padding-right: 440px;
+    padding-left: 21px;
+    font-size: 17px;
+}
+.sub101{
+    width: 155px;
+    height: 50px;
+    border-radius: 24px;
+    background-color: #274760;
+    color: white;
+    margin-top: 30px;
+}
+.ic{
+    color: black;
+}
+.imagetwo{
+    height: 750px;
+    width: 550px;
+    border: 1px solid white;
+    margin-top: 400px;
+    margin-left: 30px;
+    position: relative;
+}
+.image21{
+    height: 700px;
+    width: 600px;
+    padding-top: 30px;
+}
+.image22{
+    height: 500px;
+    width: 550px;
+    margin-top: -780px;
+    margin-bottom: 120px;
+}
+.maindiv101 , .image21{
+    float: left;
+}
