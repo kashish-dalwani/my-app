@@ -1,8 +1,5 @@
 .Cont1-img{
-    width: 100%;
-    height: 100px;
     margin-top: 120px;
-    gap: 0px;
     display: flex;
     background-attachment:fixed;
     background-size: cover;
@@ -10,7 +7,8 @@
     background-repeat: repeat;
     overflow-x: auto;
     overflow-y: hidden;
-    
+    width: '1390px';
+    height: '900px';
 }
 .smile{
     width: 400px;
@@ -61,3 +59,79 @@
     gap: 0px;
     rotate: 0 deg;
 }
+@media screen and (max-width:1440px) {
+    .Cont1-img {
+        width: 100%;
+        margin-top: 100px;
+        z-index: 2px;
+    }
+    .text{
+        position: absolute;
+    }
+    .img2{
+        position: absolute;
+        margin-left: -980px;
+        margin-top: 160px;
+    }
+    
+}
+@media screen and (max-width: 1024px){
+    .Cont1-img {
+        width: 100%;
+        display: columns;
+        margin-top: 80px;
+    }
+    .text{
+        position: absolute;
+    }
+    .img2{
+        position: absolute;
+        margin-left: -950px;
+        margin-top: 190px;
+    }
+}
+@media screen and (max-width: 768px){
+    .Cont1-img {
+        width: 100%;
+        background-size: contain ;
+        margin-top: 80px;
+        height: 700px;
+        flex-direction: column;
+        margin-right: 20px;
+    }
+    .img2{
+        position: absolute;
+        margin-top: -650px;
+        margin-left: 550px;
+    }
+    .text{
+        position: absolute;
+    }
+}
+@media screen and (max-width: 440px) {
+    .Cont1-img {
+        width: 100%;
+        margin-left: 0px;
+        height: 500px;
+        background-size: auto;
+    }
+    .text{
+        margin-top: -130px;
+        position: absolute;
+        margin-left: -30px;
+    }
+    .text h1{
+        font-size: 47px;
+    }
+    .text p{
+        font-size: 14px;
+    }
+    .para{
+        width: 300px;
+        height: 300px;
+    }
+    .img2{
+        position: absolute;
+    }
+}
+

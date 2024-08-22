@@ -7,7 +7,7 @@ import img2 from '../../src/assets/Group1.png';
 
 const Container1 = () => {
   const divStyle = {
-    width: '100vw',
+    width: '1390px',
     height: '900px',
     backgroundImage: `url(${img})`,
     backgroundAttachment: 'fixed',
@@ -16,6 +16,7 @@ const Container1 = () => {
   };
   return (
     <div className="Cont1-img" style={divStyle}>
+      <img src={img} alt="imgg" className="imig"></img>
         <div className="text">
             <div className="smile">
                 <h1>Your Smile, Our Expertise</h1>
@@ -41,5 +42,6 @@ const Container1 = () => {
     </div>
   );
 };
+
 
 export default Container1
